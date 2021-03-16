@@ -24,6 +24,7 @@ https://learn.hashicorp.com/tutorials/terraform/associate-study
     3c	Demonstrate using multiple providers
     3d	Describe how Terraform finds and fetches providers
     3e	Explain when to use and not use provisioners and when to use local-exec or remote-exec
+    
 4	Use the Terraform CLI (outside of core workflow)
 
     4a	Given a scenario: choose when to use terraform fmt to format code
